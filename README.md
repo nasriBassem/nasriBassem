@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning **Angular 16**
 
-- 👨‍💻 Some of my most important projects are available [here](https://github.com/dmamakas2000?tab=repositories)
-
-- 📝 Check out my latest publication on [ACL Anthology](https://aclanthology.org/2022.nllp-1.11/)
+- 👨‍💻 Some of my most important projects are available [here](https://github.com/nasriBassem?tab=repositories)
 
 - 💬 Ask me about **#Scrum #Java #Spring #Ibm Cloud**
 
@@ -16,9 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dimMamg13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimMamg13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dimitrios-mamakas-493931186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitrios-mamakas-493931186" height="30" width="40" /></a>
-<a href="https://instagram.com/dimitris_mamakas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimitris_mamakas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nasri-bassem-a5000850/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasri-bassem-a5000850/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
